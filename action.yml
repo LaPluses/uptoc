@@ -1,6 +1,6 @@
-name: 'Uptoc Action'
+name: 'Uptoc Action With GoProxy'
 description: 'Publish your static files, support oss,cos,qiniu,aws s3,google storage'
-author: 'saltbo <saltbo@foxmail.com>'
+author: 'LaPluses <xipersup@gmail.com>'
 branding:
   color: 'blue'
   icon: 'arrow-up-circle'
